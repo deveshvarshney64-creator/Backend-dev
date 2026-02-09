@@ -1,0 +1,16 @@
+
+CPU: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+Memory: 7.79 GB
+Platform: win32
+-----------------------------
+
+CPU: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+Memory: 7.79 GB
+Platform: win32
+-----------------------------
+
+CPU: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+Memory: 7.79 GB
+Platform: win32
+-----------------------------
+CPU: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz Memory: 7.79 GB Platform: win32
