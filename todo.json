@@ -1,0 +1,20 @@
+{
+  "memberName": "Devesh",
+  "membershipType": "Gold",
+  "booksBorrowed": [
+    {
+      "id": 1,
+      "title": "JS",
+      "author": "John",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "title": "Node",
+      "author": "Alex",
+      "price": 700
+    }
+  ],
+  "totalBookValue": 1200,
+  "finalFine": 170
+}

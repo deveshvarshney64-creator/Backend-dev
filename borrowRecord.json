@@ -1,0 +1,21 @@
+{
+  "member": {
+    "id": 1,
+    "name": "Devesh",
+    "type": "Gold"
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "JavaScript",
+      "author": "John",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "title": "Node.js",
+      "author": "Smith",
+      "price": 700
+    }
+  ]
+}
