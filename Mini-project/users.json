@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1777008475845",
+    "name": "DEVESH",
+    "email": "devesh@gmail.com",
+    "password": "$2b$10$JjelGGeuom/nyFnHKfKY/ePjHhg22.7EspHIlgnzMw9LCbn5mgKsC"
+  },
+  {
+    "id": "1777008533514",
+    "name": "anuj",
+    "email": "anuj@gmail.com",
+    "password": "$2b$10$6dBAToq84CYsvGD47rxm3uLh1R6ltjIWzuHLfB3mudV3mZBQVL33O"
+  },
+  {
+    "id": "1777008783440",
+    "name": "dev",
+    "email": "dev@gmail.com",
+    "password": "$2b$10$KVynTfKEgn/d3j7RXadJ6u0cVuA.5ADy.ULviqTAKwwyC74uxXRpC"
+  },
+  {
+    "id": "1777010190339",
+    "name": "Verification User",
+    "email": "verifyme@example.com",
+    "password": "$2b$10$vj11i4c92/vkjp4GTdtFgeYI/jHfFn0rccnHh.V6MftRSUsse0d9O"
+  },
+  {
+    "id": "1777010575896",
+    "name": "devansh",
+    "email": "devansh@gmail.com",
+    "password": "$2b$10$U1HKIeZ1mRnv6uEO.e2Si.mVWaxw.kMDxYZTCWu0XSZj4A2tcPWWa"
+  }
+]

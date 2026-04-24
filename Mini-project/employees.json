@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1771913692599,
+    "name": "Yash Agrawal",
+    "email": "yashagrawal9319029562@gmail.com",
+    "password": "$2b$10$chUTAC4RmIV97X2oGzDy5u18dTI6iOH/RUK1hyVXuE/8G08OQ8c6C",
+    "department": "IT",
+    "basicSalary": "200"
+  },
+  {
+    "id": 1771913752354,
+    "name": "Ravi",
+    "department": "HR",
+    "salary": null,
+    "basicSalary": "3000"
+  },
+  {
+    "id": "1777010623161",
+    "name": "Devesh Varshney",
+    "department": "IT",
+    "salary": 60000
+  }
+]
